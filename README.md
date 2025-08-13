@@ -1,5 +1,5 @@
 
-git clone 
+git clone https://github.com/codingacharya/options-scalper.git
 
 cd options-scalper
 
